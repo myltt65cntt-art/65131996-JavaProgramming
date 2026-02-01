@@ -1,4 +1,4 @@
-package com.a65131996.th1;
+package com.a65131996.th1.Bai2;
 
 public class BaiTap1 {
     public static void main(String[] args) {
