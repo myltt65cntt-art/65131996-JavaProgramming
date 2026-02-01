@@ -1,4 +1,4 @@
-package com.a65131996.th1;
+package com.a65131996.th1.Bai1;
 public class HelloWorldTextblocks {
     public static void main(String[] args) {
         // Text blocks với """
