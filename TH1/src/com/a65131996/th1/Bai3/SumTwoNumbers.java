@@ -1,4 +1,4 @@
-package Bai3;
+package com.a65131996.th1.Bai3;
 
 import java.util.Scanner;
 public class SumTwoNumbers {
